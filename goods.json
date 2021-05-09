@@ -1,44 +1,51 @@
-{
- "1001" : {
+[
+  {
+     "number" : "1001",
      "name" : "TX-101",
-     "type" : "bag",
+     "type" : "backpack",
      "purpose" : "city",
      "sex" : "unisex",
      "capacity" : 28,
      "price" : 1000,
      "description" : "Удобный городской рюкзак. Идеален для документов и ноутбука",
-     "image" : ""
+     "image" : "",
+     "top" : true
  },
-"1002" : {
-     "name" : "TY-132",
-     "type" : "bag",
+ {
+     "number" : "1002",
+     "name" : "TY-122",
+     "type" : "backpack",
      "purpose" : "sport",
      "sex" : "unisex",
      "capacity" : 22,
      "price" : 850,
      "description" : "Удобный для активного отдыха. Со специальным карманом для воды",
-     "image" : ""
+     "image" : "",
+     "top" : true
  },
-"1003" : {
-     "name" : "TT-246",
-     "type" : "bag",
+ {
+     "number" : "1003",
+     "name" : "TZ-113",
+     "type" : "backpack",
      "purpose" : "tourism",
      "sex" : "unisex",
      "capacity" : 60,
      "price" : 2500,
      "description" : "Многофункциональный рюкзак для краткосрочных походов",
-     "image" : ""
+     "image" : "",
+     "top" : false
  },
-"1004" : {
-     "name" : "WZ-123",
+ {
+     "number" : "1004",
+     "name" : "YB-151",
      "type" : "bag",
      "purpose" : "city",
      "sex" : "woman",
      "capacity" : 18,
      "price" : 750,
-     "description" : "Красивая женская сумочка. Купи и обязательно даст!",
-     "image" : ""
- },
-    
-        
-}
+     "description" : "Красивая женская сумочка",
+     "image" : "",
+     "top" : false
+ }
+
+]
